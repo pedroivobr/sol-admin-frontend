@@ -1,11 +1,11 @@
 pt-BR:
   cooperatives:
     index:
-      title: Associações
+      title: Entidades
       empty: Sem resultados
 
       list:
-        title: Lista de Associações
+        title: Lista de Entidades
       button:
         new: Nova entidade
       search:

@@ -30,10 +30,10 @@ pt-BR:
 
         covenant:
           import:
-            success: Integração de Convênio iniciada com sucesso
-            failure: Houve um erro ao iniciar a integração de convênio
+            success: Integração de Aquisição iniciada com sucesso
+            failure: Houve um erro ao iniciar a integração de aquisição
 
           update:
-            success: Integração de Convênio alterada com sucesso
-            failure: Houve um erro ao editar a integração de convênio
+            success: Integração de Aquisição alterada com sucesso
+            failure: Houve um erro ao editar a integração de aquisição
 
