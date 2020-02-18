@@ -28,7 +28,7 @@
 
         .row
           .twelve.columns
-            h4.title Dados da Associação
+            h4.title Dados da Entidade
 
         .row
           .eight.columns

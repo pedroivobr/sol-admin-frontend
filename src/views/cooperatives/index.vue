@@ -183,8 +183,8 @@
 
       destroyDialog(id) {
         let message = {
-          title: 'Excluir Associação',
-          body: 'Tem certeza que deseja excluir esta Associação?'
+          title: 'Excluir Entidade',
+          body: 'Tem certeza que deseja excluir esta Entidade?'
         }
 
         let options = {
