@@ -1,64 +1,64 @@
 pt-BR:
   covenants:
     index:
-      title: Convênios
+      title: Aquisições
       empty: Sem resultados
 
       list:
-        title: Lista de Convênios
+        title: Lista de Aquisições
       button:
-        new: Novo convênio
+        new: Novo aquisição
       search:
-        placeholder: Busque por nome ou número do convênio
+        placeholder: Busque por nome ou número do aquisição
 
       destroy:
-        title: Excluir convênio
-        body: Tem certeza que deseja excluir esse convênio?
+        title: Excluir aquisição
+        body: Tem certeza que deseja excluir esse aquisição?
 
       notifications:
         destroy:
-          success: Convênio excluido com sucesso
-          failure: Houve um erro ao excluir o convênio. Existem licitações vinculadas ao convênio.
+          success: Aquisição excluido com sucesso
+          failure: Houve um erro ao excluir o aquisição. Existem licitações vinculadas ao aquisição.
 
     new:
-      title: Novo convênio
+      title: Novo aquisição
       general:
-        title: Dados do convênio
+        title: Dados do aquisição
       work_plan:
         title: Dados do Plano de trabalho
 
       fields:
         name:
-          placeholder: Informe o nome do convênio
+          placeholder: Informe o nome do aquisição
         number:
           placeholder: Informe o número
 
       button:
-        submit: Criar convênio
-        submitting: Criando convênio
+        submit: Criar aquisição
+        submitting: Criando aquisição
 
       notifications:
-        failure: Houve um erro ao criar o convênio
+        failure: Houve um erro ao criar o aquisição
 
 
     edit:
-      title: Editar convênio
+      title: Editar aquisição
       general:
-        title: Dados do convênio
+        title: Dados do aquisição
       work_plan:
         title: Dados do Plano de trabalho
 
       notifications:
-        failure: Houve um erro ao editar o convênio
+        failure: Houve um erro ao editar o aquisição
 
       button:
-        submit: Editar convênio
-        submitting: Editando convênio
+        submit: Editar aquisição
+        submitting: Editando aquisição
 
     show:
-      title: Detalhes do convênio
+      title: Detalhes do aquisição
       general:
-        title: Dados do convênio
+        title: Dados do aquisição
 
       destroy:
         title: Excluir grupo

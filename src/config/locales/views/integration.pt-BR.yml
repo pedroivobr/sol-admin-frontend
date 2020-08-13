@@ -12,12 +12,12 @@ pt-BR:
       notifications:
         cooperative:
           import:
-            success: Integração de Associação iniciada com sucesso
-            failure: Houve um erro ao iniciar a integração de associação
+            success: Integração de Entidade iniciada com sucesso
+            failure: Houve um erro ao iniciar a integração de entidade
 
           update:
-            success: Integração de Associação alterada com sucesso
-            failure: Houve um erro ao editar a integração de associação
+            success: Integração de Entidade alterada com sucesso
+            failure: Houve um erro ao editar a integração de entidade
 
         item:
           import:
@@ -30,10 +30,10 @@ pt-BR:
 
         covenant:
           import:
-            success: Integração de Convênio iniciada com sucesso
-            failure: Houve um erro ao iniciar a integração de convênio
+            success: Integração de Aquisição iniciada com sucesso
+            failure: Houve um erro ao iniciar a integração de aquisição
 
           update:
-            success: Integração de Convênio alterada com sucesso
-            failure: Houve um erro ao editar a integração de convênio
+            success: Integração de Aquisição alterada com sucesso
+            failure: Houve um erro ao editar a integração de aquisição
 
